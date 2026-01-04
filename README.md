@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginners project that will help me gain some experience
 - 📫 How to reach me text here!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Bro is fun
+- ⚡ Fun fact:
 
 <!---
 Gahna16/Gahna16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
